@@ -193,7 +193,7 @@ a.navbar-brand i {
 
 /*-- //header --*/
 .header-outs {
-  background: url(../images/LeoClub_bg_1.jpg);
+  background: url(../images/LeoClub_bg_1.png);
   position: relative;
   background-repeat: no-repeat;
   background-position: center;
@@ -1785,7 +1785,7 @@ span.cap {
 }
 @media (max-width: 480px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_5.jpg);
+    background: url(../images/LeoClub_bg_5.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -1862,7 +1862,7 @@ span.cap {
 }
 @media (max-width: 440px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_5.jpg);
+    background: url(../images/LeoClub_bg_5.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -1895,7 +1895,7 @@ span.cap {
 
 @media (max-width: 440px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_5.jpg);
+    background: url(../images/LeoClub_bg_5.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -1944,7 +1944,7 @@ span.cap {
 
 @media (max-width: 414px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_3.jpg);
+    background: url(../images/LeoClub_bg_3.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -1992,7 +1992,7 @@ span.cap {
 }
 @media (max-width: 384px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_3.jpg);
+    background: url(../images/LeoClub_bg_3.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -2017,7 +2017,7 @@ span.cap {
 }
 @media (max-width: 375px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_3.jpg);
+    background: url(../images/LeoClub_bg_3.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -2050,7 +2050,7 @@ span.cap {
 }
 @media (max-width: 320px) {
   .header-outs {
-    background: url(../images/LeoClub_bg_2.jpg);
+    background: url(../images/LeoClub_bg_2.png);
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
