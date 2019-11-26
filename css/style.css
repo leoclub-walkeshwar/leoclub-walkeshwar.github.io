@@ -492,7 +492,8 @@ h4.modal-title {
   top: -163px;
   width: 64%;
   background: rgba(0, 0, 0, 0.8);
-  padding: 4em 3em;
+  padding: 2.2em 1.2em 1.2em 1.2em;
+  /* Changed from padding: 4em 3em */
   z-index: 9;
   text-align: center;
 }
