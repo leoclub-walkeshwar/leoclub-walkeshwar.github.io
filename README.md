@@ -1,6 +1,6 @@
 ### leoclub-walkeshwar.github.io
 
 Hosted on Github Pages
-leoclub-walkeshwar.github.io
+http://leoclub-walkeshwar.github.io
 
 ### Leo Club of Walkeshwar Website
